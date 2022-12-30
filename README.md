@@ -1,7 +1,4 @@
-# Arrgument-Function-program
-Arrgument  Function &amp; Return
-
-[9:43 PM, 12/30/2022] 彡Vıя͢ʊṡ☘ Ansari: #include <iostream>
+#include <iostream>
 using namespace std;
 
 //function with  no argument and no return value:
@@ -40,7 +37,7 @@ void even_odd3(int num)
 }
 
 //function with argument and return value:
-[9:43 PM, 12/30/2022] 彡Vıя͢ʊṡ☘ Ansari: string even_odd4(int num)
+string even_odd4(int num)
 {
 	if(num%2==1 || num==1)
 	return "odd";
